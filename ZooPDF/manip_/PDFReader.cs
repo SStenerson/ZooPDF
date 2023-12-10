@@ -12,7 +12,6 @@ namespace ZooPDF
 		{
 			try
 			{
-				// Read the PDF file in binary mode
 				byte[] pdfBytes = File.ReadAllBytes(filePath);
 				return pdfBytes;
 			}

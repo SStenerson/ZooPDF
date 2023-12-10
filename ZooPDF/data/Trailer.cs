@@ -11,7 +11,7 @@ namespace ZooPDF.Data_Classes
 		public int Size { get; private set; } // Total number of entries in the xref table
 		public int RootObjectNumber { get; private set; } // Object number of the root object
 		public int RootGenerationNumber { get; private set; } // Generation number of the root object
-		public int PrevXrefOffset { get; private set; } // Byte offset of the previous xref table (if any)
+		public int PrevXrefOffset { get; private set; }
 
 		// Additional properties as per the PDF specification
 		public Dictionary<string, object> AdditionalInfo { get; private set; }
