@@ -1,0 +1,12 @@
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\bin\Debug\net6.0\ZooPDF.deps.json
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\bin\Debug\net6.0\ZooPDF.dll
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\bin\Debug\net6.0\ZooPDF.pdb
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.csproj.AssemblyReference.cache
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.AssemblyInfoInputs.cache
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.AssemblyInfo.cs
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.csproj.CoreCompileInputs.cache
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.dll
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\refint\ZooPDF.dll
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ZooPDF.pdb
+C:\Users\SSten\source\repos\ZooPDF\ZooPDF\ZooPDF\obj\Debug\net6.0\ref\ZooPDF.dll
